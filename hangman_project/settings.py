@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-tiyt4l3n%gvz)%g_=8i&ku&hd@c&0sbc+4j7kfc8x21z^m6&z(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hangman-backend-4tfe.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
